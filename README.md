@@ -1,5 +1,9 @@
 # Logistics & Delivery Performance Dashboard
 
+## Dashboard Preview
+
+<img width="1690" height="752" alt="image" src="https://github.com/user-attachments/assets/dac4f062-eb13-4c7f-b5e9-138dc9fff6a3" />
+
 ## Project Overview
 
 This project analyzes 5,000+ e-commerce logistics orders using Microsoft Excel.
@@ -59,7 +63,5 @@ The dashboard provides insights into:
 
 ---
 
-## Dashboard Preview
 
-<img width="1690" height="752" alt="image" src="https://github.com/user-attachments/assets/dac4f062-eb13-4c7f-b5e9-138dc9fff6a3" />
 
